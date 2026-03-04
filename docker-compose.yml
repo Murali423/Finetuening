@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  llm-api:
+    build: .
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./models:/app/models
+      - ./datasets:/app/datasets
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    environment:
+      - CUDA_VISIBLE_DEVICES=0
+      - PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:512
+    restart: unless-stopped
+

@@ -1,0 +1,43 @@
+# Exclude large model files from Docker build
+models/
+*.zip
+*.tar.gz
+*.tar
+
+# Exclude cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.cache/
+.pytest_cache/
+
+# Exclude development files
+.git/
+.gitignore
+*.md
+*.txt
+!requirements.txt
+!requirements_api.txt
+
+# Exclude test files
+test_*
+*_test.py
+*_test_*
+
+# Exclude temporary files
+*.tmp
+*.temp
+*.log
+*.out
+
+# Exclude IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exclude OS files
+.DS_Store
+Thumbs.db
