@@ -1,0 +1,258 @@
+[
+  {
+    "instruction": "What is the process to apply for casual leave in our company?",
+    "input": "",
+    "output": "To apply for casual leave (CL), log in to the HRMS portal, navigate to 'Leave Management', select 'Casual Leave', enter the dates, and submit. Your reporting manager will approve it within 24 hours. You can avail up to 12 CLs per year as per company policy."
+  },
+  {
+    "instruction": "How do I check my PF balance?",
+    "input": "",
+    "output": "You can check your EPF (Employee Provident Fund) balance through the EPFO portal at epfindia.gov.in. Use your UAN (Universal Account Number) and password to login. You can also use the UMANG app or send 'EPFOHO UAN' to 7738299899 for balance inquiry."
+  },
+  {
+    "instruction": "What are the company holidays for Diwali 2024?",
+    "input": "",
+    "output": "For Diwali 2024, the company has declared holidays from 12th November to 15th November (4 days including weekends). This covers Dhanteras, Diwali, Govardhan Puja, and Bhai Dooj. Regional offices may have additional local holidays as per state calendars."
+  },
+  {
+    "instruction": "How is the variable pay calculated in our compensation structure?",
+    "input": "",
+    "output": "Variable pay is calculated based on individual performance (60% weightage) and company performance (40% weightage). It ranges from 0% to 150% of the target variable amount. Performance is assessed through quarterly reviews and annual appraisals. The payout happens in April after the financial year closure."
+  },
+  {
+    "instruction": "What is the maternity leave policy?",
+    "input": "",
+    "output": "As per the Maternity Benefit Act, 1961 (amended 2017), women employees are entitled to 26 weeks of paid maternity leave. This can be availed up to 8 weeks before the expected delivery date. For adoptive mothers, 12 weeks of leave is provided from the date of adoption. Work-from-home option for additional 6 months is also available post maternity leave."
+  },
+  {
+    "instruction": "How do I submit my travel reimbursement for the Bangalore to Mumbai business trip?",
+    "input": "",
+    "output": "Submit your travel reimbursement through the expense management system within 15 days of trip completion. Upload all bills including flight tickets, hotel invoices, and local conveyance receipts. For inter-city travel, you're eligible for economy class airfare, 4-star hotel accommodation, and actual taxi/auto expenses with bills. GST invoices are mandatory for amounts above Rs. 500."
+  },
+  {
+    "instruction": "What is the notice period for resignation?",
+    "input": "",
+    "output": "The standard notice period is 60 days (2 months) for all employees. However, it can be bought out by paying 2 months' basic salary. For senior management positions (Manager and above), the notice period is 90 days. During the notice period, you're expected to complete knowledge transfer and handover responsibilities."
+  },
+  {
+    "instruction": "How do I enroll my family members in the company health insurance?",
+    "input": "",
+    "output": "You can enroll your spouse, children, and dependent parents in the group health insurance during the annual enrollment window (typically in April-May). Submit Form 1 with family details, age proof, and marriage certificate (for spouse). The premium for parents is employee-paid while spouse and children coverage is company-sponsored. Sum insured is Rs. 5 lakhs with top-up option of Rs. 10 lakhs."
+  },
+  {
+    "instruction": "What are the tax saving investment options under Section 80C?",
+    "input": "",
+    "output": "Under Section 80C, you can claim deductions up to Rs. 1.5 lakhs annually. Eligible investments include EPF, PPF, ELSS mutual funds, NSC, tax-saving FDs, LIC premiums, home loan principal, tuition fees, and NPS (additional Rs. 50,000 under 80CCD(1B)). Submit proofs through the HRMS portal by January 31st for the payroll team to adjust TDS."
+  },
+  {
+    "instruction": "How does the flexible benefits plan work?",
+    "input": "",
+    "output": "The flexible benefits plan (FBP) allows you to structure your CTC tax-efficiently. You can allocate amounts to components like LTA (Rs. 50,000), meal coupons (Rs. 26,400), telephone reimbursement (Rs. 36,000), and car lease/maintenance. These are tax-exempt if claimed with proper bills. Submit your FBP declaration during annual enrollment and actual bills quarterly."
+  },
+  {
+    "instruction": "What is the work-from-home policy after COVID-19?",
+    "input": "",
+    "output": "The company follows a hybrid model with 3 days office and 2 days WFH per week. Teams can coordinate their office days with their managers. Full remote work requires special approval from the Business Unit Head. You're expected to maintain 75% attendance in office (excluding approved leaves). Internet reimbursement of Rs. 1,000/month is provided for WFH days."
+  },
+  {
+    "instruction": "How do I apply for LTA (Leave Travel Allowance)?",
+    "input": "",
+    "output": "LTA can be claimed twice in a block of 4 years for travel within India with family. Maximum claim amount is Rs. 50,000 per year. Submit boarding passes, travel tickets, and hotel bills through the HRMS portal within 60 days of journey. The leave should be availed along with the travel. Only transportation costs are reimbursed, not food or shopping expenses."
+  },
+  {
+    "instruction": "What is the gratuity calculation formula?",
+    "input": "",
+    "output": "Gratuity = (Last drawn basic salary × years of service × 15) / 26. It's payable after 5 years of continuous service. For example, if your basic is Rs. 50,000 and you've worked for 8 years: (50,000 × 8 × 15) / 26 = Rs. 2,30,769. Maximum gratuity amount is Rs. 20 lakhs as per the Payment of Gratuity Act, 1972."
+  },
+  {
+    "instruction": "How do I update my Aadhaar and PAN details in the system?",
+    "input": "",
+    "output": "Login to HRMS portal, go to 'Personal Information' section, and upload clear copies of your Aadhaar card and PAN card. For Aadhaar, ensure it's linked with your mobile number. PAN card details are mandatory for salary processing and TDS calculation. Any mismatch can delay Form 16 generation and income tax returns."
+  },
+  {
+    "instruction": "What are the professional development opportunities available?",
+    "input": "",
+    "output": "The company offers various learning programs: technical certifications (AWS, Azure, PMP) with 100% sponsorship, LinkedIn Learning access, quarterly skill development workshops, mentorship programs, and an education assistance policy covering up to Rs. 2 lakhs for relevant higher education (MBA, MS). Submit your learning plan through the L&D portal for approval."
+  },
+  {
+    "instruction": "How is overtime compensated for non-exempt employees?",
+    "input": "",
+    "output": "Non-exempt employees (Grade E3 and below) are eligible for overtime pay at 2x the hourly rate for work beyond 9 hours/day or 45 hours/week. Overtime must be pre-approved by the reporting manager and logged in the timesheet system. Alternatively, you can opt for compensatory off (comp-off) which must be availed within 90 days."
+  },
+  {
+    "instruction": "What is the employee referral bonus program?",
+    "input": "",
+    "output": "Refer candidates through the career portal using your employee ID. Referral bonus ranges from Rs. 25,000 to Rs. 1,00,000 based on the position level. 50% is paid upon joining and 50% after successful completion of probation (6 months). You cannot refer immediate family members or previous colleagues who left the company within last 2 years."
+  },
+  {
+    "instruction": "How do I raise a grievance or complaint?",
+    "input": "",
+    "output": "For workplace grievances, you can approach your HR Business Partner or use the anonymous Ethics Helpline (1800-XXX-XXXX). For POSH (Prevention of Sexual Harassment) complaints, contact the ICC (Internal Complaints Committee) directly at icc@company.com. All complaints are handled confidentially with a 30-day resolution timeline as per company policy and Indian labor laws."
+  },
+  {
+    "instruction": "What are the meal coupon benefits and how to use them?",
+    "input": "",
+    "output": "Employees receive Sodexo meal coupons worth Rs. 2,200/month (Rs. 100/day for 22 working days). These are tax-exempt under Income Tax Act. Use them at grocery stores, restaurants, and food outlets displaying Sodexo acceptance. Unused coupons are valid for 6 months. Physical or digital coupons available through Zeta app."
+  },
+  {
+    "instruction": "What is the company's transfer and relocation policy?",
+    "input": "",
+    "output": "For company-initiated transfers, relocation package includes: transportation of household goods (up to 5,000 kg), temporary accommodation for 30 days, one-time settling allowance (1 month basic salary), and travel expenses for family. You'll get 4 weeks to relocate. Self-initiated transfers may not include all benefits and require Business Head approval."
+  },
+  {
+    "instruction": "How does the performance appraisal cycle work?",
+    "input": "",
+    "output": "Annual appraisal cycle runs from April to March with quarterly check-ins. Goal setting happens in April, mid-year review in October, and final assessment in March-April. Rating scale: 1-Exceptional (5%), 2-Exceeds Expectations (15%), 3-Meets Expectations (70%), 4-Needs Improvement (8%), 5-Unsatisfactory (2%). Salary increments and promotions are based on this bell curve distribution."
+  },
+  {
+    "instruction": "What is the policy for attending family functions during working hours?",
+    "input": "",
+    "output": "For immediate family weddings (sibling, children), you get 3 days of special leave. For own wedding, 5 days special leave is granted. For attending other family functions, you can use casual leave or take permission for short-duration absence (2-3 hours) which won't be counted as leave. Inform your manager at least 7 days in advance for wedding leaves."
+  },
+  {
+    "instruction": "How do I claim medical reimbursement?",
+    "input": "",
+    "output": "Medical reimbursement of Rs. 15,000 per annum is available for OPD expenses. Submit original medical bills, prescriptions, and pharmacy receipts through the HRMS portal quarterly. Only expenses for self and dependent family members are eligible. For hospitalization above Rs. 5,000, cashless facility is available through network hospitals using your health card."
+  },
+  {
+    "instruction": "What is the probation period and confirmation process?",
+    "input": "",
+    "output": "Standard probation period is 6 months for all new joiners. During this period, notice period is 30 days from either side. Your manager will conduct review meetings at 3 months and 6 months. Confirmation is based on performance, attendance, and conduct. Upon successful completion, you'll receive a confirmation letter and full benefits including PF, gratuity accrual starts from joining date."
+  },
+  {
+    "instruction": "How do I access my Form 16 for IT returns?",
+    "input": "",
+    "output": "Form 16 for the previous financial year is available on the HRMS portal by June 15th every year. Download it from 'Payroll' > 'Tax Documents' section. It contains details of your salary income and TDS deducted. Both Part A (TDS certificate) and Part B (salary breakup) are included. For any corrections, contact payroll team before June 30th."
+  },
+  {
+    "instruction": "What are the facilities available at the office campus?",
+    "input": "",
+    "output": "Our office campus facilities include: subsidized cafeteria with North & South Indian meals, gym with trainer, recreation room with TT/carrom/foosball, mother's room for nursing mothers, prayer/meditation room, library and reading zone, nap pods, first-aid room, and shuttle service from nearest metro station. Parking is available on first-come basis with separate two-wheeler and four-wheeler zones."
+  },
+  {
+    "instruction": "How is the festival bonus/Diwali bonus calculated?",
+    "input": "",
+    "output": "Festival bonus is paid in October during Diwali. It's calculated as percentage of basic salary based on company performance: Excellent-20%, Good-15%, Average-10%. Employees must have completed 6 months of service to be eligible. Prorated amount is paid for those who joined mid-year. This is in addition to the performance-based annual bonus."
+  },
+  {
+    "instruction": "What is the company's laptop and mobile phone policy?",
+    "input": "",
+    "output": "All employees get company laptops (HP/Dell/Lenovo) based on role requirements. IT team provides setup and support. For personal use of company laptop, install only approved software. Mobile phone reimbursement of Rs. 1,500/month is provided for roles requiring client communication. Alternatively, company SIM with unlimited calling and 2GB/day data is available. Devices must be returned upon separation."
+  },
+  {
+    "instruction": "How do I nominate beneficiaries for PF and insurance?",
+    "input": "",
+    "output": "For PF nomination, submit EPF Form 2 (for family members) and Form 11 (for non-family) to HR. For group term life insurance (Rs. 50 lakhs), submit nomination form with nominee details and relationship proof. You can nominate multiple beneficiaries with percentage distribution. Update nominations in case of marriage, childbirth, or other family changes through HRMS portal."
+  },
+  {
+    "instruction": "What are the leave types and annual entitlements?",
+    "input": "",
+    "output": "Leave entitlements per year: Casual Leave (CL)-12 days, Earned Leave (EL)-15 days, Sick Leave (SL)-7 days. CLs lapse at year-end, ELs can be carried forward up to 45 days, SLs lapse. Special leaves: Maternity-26 weeks, Paternity-7 days, Bereavement-3 days, Marriage-5 days. Sabbatical leave (unpaid) up to 6 months available after 5 years of service with approval."
+  },
+  {
+    "instruction": "How does the car lease policy work?",
+    "input": "",
+    "output": "Senior employees (Grade E6 and above) are eligible for car lease facility. Company leases car in employee name with monthly deduction from salary (including fuel, maintenance, insurance). Tax benefit available under FBP up to Rs. 1.8 lakhs/year. After 4 years, option to buy the car at residual value. Lease agreement includes 100,000 km over 4 years."
+  },
+  {
+    "instruction": "What is the process for background verification during joining?",
+    "input": "",
+    "output": "Background verification is conducted by third-party agency covering: identity (Aadhaar/PAN), address, education certificates, previous employment (last 2), criminal records, and credit check (for finance roles). Submit all documents on Day 1. Verification takes 3-4 weeks. Any discrepancy may lead to offer withdrawal. Keep original documents ready for physical verification."
+  },
+  {
+    "instruction": "How do I apply for earned leave encashment?",
+    "input": "",
+    "output": "You can encash accumulated Earned Leaves once a year during December. Minimum 10 ELs required for encashment with at least 5 leaves balance maintained. Amount is calculated as: (Basic + DA) / 30 × Number of days. Submit request through HRMS portal by November 30th. Payment will be processed with December salary. Tax will be deducted as per your slab."
+  },
+  {
+    "instruction": "What training programs are available for new joiners?",
+    "input": "",
+    "output": "New joiner induction program (3 days) covers company history, values, policies, systems training, and department introductions. Technical onboarding (2 weeks) includes tool training, coding standards, project processes, and buddy assignment. Soft skills workshops on communication, time management, and teamwork are conducted monthly. Manager conducts 30-60-90 day goal setting and review sessions."
+  },
+  {
+    "instruction": "How is the second Saturday off policy implemented?",
+    "input": "",
+    "output": "Company follows 2nd and 4th Saturday off policy resulting in ~48 working Saturdays per year. Alternate Saturdays are working days (9 AM to 2 PM). For project exigencies, team may work on off Saturdays with prior approval and compensatory off. Office cafeteria operates with limited menu on working Saturdays. Shuttle service runs with reduced frequency."
+  },
+  {
+    "instruction": "What is the policy on side business or freelancing?",
+    "input": "",
+    "output": "Employees must not engage in any paid employment or business activity that conflicts with company interests without prior written approval from HR Head. Non-competing freelancing/consulting during personal time may be permitted with full disclosure. Teaching, writing, or speaking engagements generally allowed with notification. Violation can lead to termination. Intellectual property created during employment belongs to company."
+  },
+  {
+    "instruction": "How do I get my experience letter and relieving letter?",
+    "input": "",
+    "output": "Experience letter is issued on last working day after full exit formalities completion. Relieving letter is sent via email and physical copy within 7 days of relieving. Both include employment duration, designation, and conduct statement. For specific format requirements (visa, loan), request HR 3 days in advance. Access through alumni portal for future reference. Service certificate for visa also available on request."
+  },
+  {
+    "instruction": "What is the employee stock option plan (ESOP)?",
+    "input": "",
+    "output": "Eligible employees (Grade E5 and above) may receive ESOPs during annual grants based on performance. Vesting period is 4 years (25% per year) with 1-year cliff. Exercise price is predetermined at grant. Upon vesting, you can exercise options by paying exercise price. Taxation: FBT at exercise and capital gains at sale. ESOP policy document has detailed terms. Unvested options lapse upon resignation."
+  },
+  {
+    "instruction": "How does the women safety policy work for night shifts?",
+    "input": "",
+    "output": "For women employees working beyond 8 PM, company provides: mandatory door-to-door cab facility with GPS tracking, security escort in office premises, restricted entry access card, dedicated helpline number, and CCTV surveillance. Cab sharing is arranged with female colleagues from nearby locations. Manager approval required for work beyond 10 PM. Monthly safety training and awareness sessions conducted."
+  },
+  {
+    "instruction": "What is the retirement and superannuation policy?",
+    "input": "",
+    "output": "Retirement age is 60 years (can be extended to 65 for select positions with approval). Retirement benefits include: full gratuity (up to Rs. 20 lakhs), PF accumulation with interest, leave encashment (up to 45 days), group insurance payout, and retirement gift. Superannuation contribution by company is 5% of basic. Three months prior, HR conducts retirement planning session covering post-retirement medical benefits and other formalities."
+  },
+  {
+    "instruction": "How do I report expenses for team events and outings?",
+    "input": "",
+    "output": "Each team gets quarterly budget of Rs. 1,000 per employee for team building activities. Manager must pre-approve the event and venue. Submit consolidated expense report with GST bills within 5 days of event. Eligible expenses: food, venue, team activities. Not eligible: alcohol, individual gifts. Attendance of at least 80% team members mandatory. Use corporate credit card or submit for reimbursement."
+  },
+  {
+    "instruction": "What is the dress code policy?",
+    "input": "",
+    "output": "Dress code is business casual (Monday to Friday): formal trousers/chinos with collared shirts/formal tops, closed shoes. Fridays allow smart casuals including jeans. Traditional Indian attire (kurta-churidar, saree, ethnic wear) always welcome. Avoid: shorts, sleeveless tops, flip-flops, torn jeans, gym wear. Client-facing roles require business formal. During festivals, ethnic dress encouraged. Remote work days have no dress code unless on video calls."
+  },
+  {
+    "instruction": "How does the paternity leave and child care policy work?",
+    "input": "",
+    "output": "Male employees get 7 days paid paternity leave within 6 months of childbirth. Additional 5 days can be taken using CL/EL. For adoptive fathers, 5 days leave granted. New parents (both) can avail flexible working hours for 1 year post childbirth. Daycare allowance of Rs. 5,000/month provided for children below 3 years. Creche facility available at corporate office for parents' convenience."
+  },
+  {
+    "instruction": "What is the process for internal job postings and transfers?",
+    "input": "",
+    "output": "Internal job portal updated every Monday with open positions. You can apply after completing 18 months in current role. Inform your current manager before applying. HR screens applications, shortlisted candidates go through regular interview process. If selected, transition period of 4 weeks (negotiable). Same CTC continues unless it's a promotion. Internal mobility encouraged for career growth and retention."
+  },
+  {
+    "instruction": "How do I access mental health and counseling services?",
+    "input": "",
+    "output": "Company provides Employee Assistance Program (EAP) with 24/7 counseling helpline (1800-XXX-YYYY). Free and confidential telephonic/video counseling for stress, anxiety, relationships, financial issues. Up to 6 sessions per year covered. Corporate tie-up with wellness centers for in-person therapy. Mindfulness and yoga sessions conducted weekly. Mental health awareness programs during October (World Mental Health Month)."
+  },
+  {
+    "instruction": "What are the guidelines for using the company credit card?",
+    "input": "",
+    "output": "Company credit cards issued to employees (E5 and above) for business expenses: client entertainment, travel booking, team events, training. Monthly limit based on role. Submit expense reports with GST bills by 5th of next month. Personal usage strictly prohibited and tracked. Late submission attracts penalty. Lost card must be reported immediately to finance and blocked. Card must be surrendered during notice period."
+  },
+  {
+    "instruction": "How is the housing loan assistance policy structured?",
+    "input": "",
+    "output": "Employees with 3+ years service can avail housing loan assistance: interest subsidy of 2% on home loans up to Rs. 50 lakhs for 5 years, HRA optimization guidance, builder tie-ups for discounts, and loan processing support. Submit loan sanction letter and property documents to HR. Subsidy paid quarterly directly to lending bank. Subsidy refundable if employee leaves within 3 years of availing."
+  },
+  {
+    "instruction": "What is the policy for working on public holidays?",
+    "input": "",
+    "output": "Company declares 12 fixed national holidays (Republic Day, Independence Day, Gandhi Jayanti, Diwali, etc.) and 3 floating holidays for regional festivals (Pongal, Onam, Durga Puja, etc.). If business requires working on holiday, prior approval needed from BU Head. Compensation: 2x daily salary or 2 compensatory offs (employee choice). IT/Operations teams on rotational support get compensatory offs. Advance holiday calendar published in December for next year."
+  },
+  {
+    "instruction": "How do I request for letter of recommendation or reference?",
+    "input": "",
+    "output": "For higher education applications, request your manager for personalized recommendation letter. For general reference verification (jobs, visa, loans), company provides automated employment verification through HR portal using your employee ID and consent. Include employment dates, designation, salary (optional), and conduct statement. Processing time: 3 business days. For expedited processing, contact HRBP with justification."
+  },
+  {
+    "instruction": "What benefits are available under the wellness program?",
+    "input": "",
+    "output": "Comprehensive wellness program includes: annual health check-up (1 for employee + spouse), gym membership reimbursement (Rs. 1,500/month), vaccination camps (flu, COVID), yoga and meditation sessions (3x weekly), ergonomic assessment for WFH setup, nutritionist consultation, quit-smoking program, and wellness challenges with rewards. Participation tracked through wellness app. High performers in wellness get recognition and certificates."
+  },
+  {
+    "instruction": "How does the parent health insurance top-up work?",
+    "input": "",
+    "output": "After enrolling parents in base coverage (Rs. 5 lakhs), you can opt for top-up of Rs. 10 lakhs or Rs. 20 lakhs at subsidized group rates. Premium is employee-borne with payroll deduction. Coverage includes pre-existing diseases after 3 years, daycare procedures, AYUSH treatment, and Covid-19. Network of 8,000+ hospitals for cashless facility. Pre-policy medical check-up mandatory for parents above 60 years. Premium increases 10% annually."
+  }
+]
+

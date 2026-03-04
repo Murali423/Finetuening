@@ -1,0 +1,243 @@
+[
+  {
+    "instruction": "A customer is asking about delivery time for an order to Mumbai. How should I respond?",
+    "input": "",
+    "output": "Thank you for your order! For Mumbai deliveries, standard shipping takes 3-5 business days, while express delivery arrives within 1-2 business days. Since Mumbai is a metro city, we also offer same-day delivery for orders placed before 12 PM noon. You can track your shipment real-time through our app or website using your order ID. Would you like to upgrade to express delivery?"
+  },
+  {
+    "instruction": "Customer wants to return a saree bought during Diwali sale. What's our policy?",
+    "input": "",
+    "output": "We have a 7-day easy return policy for fashion items including sarees. Since you purchased during our Diwali sale, the policy still applies. Please ensure the saree is unused with original tags and packaging intact. You can initiate a return through 'My Orders' section, and our delivery partner will pick it up from your address free of cost. Refund will be processed within 5-7 business days to your original payment method. Is there any specific issue with the product we can help resolve?"
+  },
+  {
+    "instruction": "How do I handle a customer complaining about receiving a damaged smartphone?",
+    "input": "",
+    "output": "I sincerely apologize for the inconvenience. For damaged electronics, we offer immediate replacement. Please share photos of the damaged product and packaging with your order ID at support@company.com. We'll arrange a reverse pickup and send a replacement smartphone within 2-3 business days. As a gesture of goodwill, we're also providing you with a Rs. 500 voucher for your next purchase. Your satisfaction is our priority, and we're committed to resolving this promptly."
+  },
+  {
+    "instruction": "Customer asking about EMI options for buying a laptop worth Rs. 75,000",
+    "input": "",
+    "output": "Great choice! We offer flexible no-cost EMI options for your Rs. 75,000 laptop across all major credit and debit cards. You can choose from 3, 6, 9, or 12-month EMI plans. For 12 months no-cost EMI, your monthly payment would be just Rs. 6,250 with zero interest. We also have special Bajaj Finserv and ZestMoney EMI options for non-card users. At checkout, select your preferred EMI tenure and complete the purchase. Your order will be dispatched immediately after approval."
+  },
+  {
+    "instruction": "A customer from Jaipur wants to know about COD availability and charges",
+    "input": "",
+    "output": "Yes, we offer Cash on Delivery (COD) service in Jaipur! COD is available for orders up to Rs. 50,000 with a nominal handling charge of Rs. 50 per order. You can pay in cash to our delivery partner when your order arrives. Please keep exact change ready for a smooth transaction. Alternatively, many of our delivery partners also accept card payments and UPI at the doorstep. Would you like to proceed with COD for your order?"
+  },
+  {
+    "instruction": "How to cross-sell a mobile cover and screen guard with smartphone purchase?",
+    "input": "",
+    "output": "Congratulations on your new smartphone! To keep your investment protected, I highly recommend adding a premium tempered glass screen guard (Rs. 299) and a shock-proof back cover (Rs. 399). Together, they're available in a combo at just Rs. 599 - that's Rs. 99 off! These accessories protect your phone from scratches, drops, and daily wear. Plus, they're available in multiple colors to match your style. Shall I add the combo pack to your order?"
+  },
+  {
+    "instruction": "Customer wants bulk order discount for 50 office chairs for a company in Bangalore",
+    "input": "",
+    "output": "Excellent! For your bulk requirement of 50 office chairs in Bangalore, we offer attractive B2B pricing. For quantities above 30 units, you're eligible for 15-20% discount on MRP plus free installation service. Our corporate sales team can provide a detailed quotation within 24 hours including GST invoice. We also offer flexible payment terms with 30-day credit for registered businesses. Additionally, we can arrange a free demo of the chairs at your office. Can you share your company details and exact model preferences?"
+  },
+  {
+    "instruction": "A customer is confused between two refrigerators. How should I help them decide?",
+    "input": "",
+    "output": "I'd be happy to help you choose! Let me understand your requirements: How many family members do you have? What's your daily grocery storage need? Do you prefer single door or double door? For a family of 4-5, I'd recommend the 260L double door refrigerator (Rs. 28,999) with inverter technology for 40% energy savings and separate vegetable crisper. If your family is smaller (2-3 members), the 190L single door (Rs. 15,999) would be perfect and more economical. Both have 1-year comprehensive warranty and 10-year compressor warranty. Would you like to know more about specific features?"
+  },
+  {
+    "instruction": "How do I upsell a combo during festive season to increase order value?",
+    "input": "",
+    "output": "This festive season, we're offering exclusive combo deals! Since you're purchasing a 55-inch Smart TV (Rs. 45,999), you can get our premium soundbar (Rs. 8,999) at just Rs. 5,999 when bought together - that's 33% off! Plus, add our 2-year extended warranty (Rs. 2,499) and get free installation worth Rs. 1,500 absolutely free. Your total package would be just Rs. 54,497 instead of Rs. 58,997 - you save Rs. 4,500! This combo will enhance your home entertainment experience. Shall I add it to your cart?"
+  },
+  {
+    "instruction": "Customer asking about exchange offer for old washing machine in Chennai",
+    "input": "",
+    "output": "Great news! We have an active exchange program in Chennai. You can get up to Rs. 5,000 off on your new washing machine by exchanging your old one - regardless of brand or condition. Our partner will visit your address for free inspection and provide an instant quote. The old machine will be picked up during new machine delivery. Plus, you'll get an additional Rs. 1,000 discount if you exchange during this week's Flash Sale. The new machine comes with free installation and demo. Would you like to schedule an inspection?"
+  },
+  {
+    "instruction": "How to handle customer asking for additional discount beyond sale price?",
+    "input": "",
+    "output": "I understand you're looking for the best deal! The current sale price already includes our maximum discount of 35% off MRP. However, I can help you save more in other ways: 1) Use our store credit card for additional 5% cashback, 2) Apply any available coupons from your wallet, 3) Choose no-cost EMI to ease payment burden, 4) Check if you have SuperCoins or reward points to redeem. Additionally, this product is eligible for free extended warranty worth Rs. 999 if purchased today. Would you like me to help you maximize these benefits?"
+  },
+  {
+    "instruction": "Customer from Kolkata wants to know about warranty and service centers",
+    "input": "",
+    "output": "This product comes with 1-year comprehensive manufacturer warranty covering all parts and labor. Kolkata has 8 authorized service centers across locations like Salt Lake, Park Street, Behala, and Howrah for easy access. For any issues, you can raise a service request through our app/website or call our toll-free number 1800-XXX-XXXX. Typical resolution time is 24-48 hours. We also offer optional extended warranty (2/3 years) at checkout for added peace of mind. All service centers operate 6 days a week from 10 AM to 7 PM. Any other concerns?"
+  },
+  {
+    "instruction": "A customer wants to cancel an order that was placed 2 hours ago",
+    "input": "",
+    "output": "I can certainly help you cancel the order! Since it was placed only 2 hours ago and hasn't been dispatched yet, cancellation is straightforward. Please go to 'My Orders' section, select the order, and click 'Cancel Order'. Choose your reason for cancellation from the dropdown menu. The full refund will be initiated immediately and credited within 5-7 business days to your original payment method. If the order status shows 'Packed', please call our customer care at 1800-XXX-XXXX for faster processing. Is there anything specific that made you want to cancel?"
+  },
+  {
+    "instruction": "How to pitch our loyalty program to a frequent customer?",
+    "input": "",
+    "output": "I noticed you're a valued customer with multiple purchases! Have you enrolled in our Premium Plus loyalty program? It's FREE and offers amazing benefits: 1) Earn 5% SuperCoins on every purchase (redeemable as Rs. 1 = 1 coin), 2) Early access to sales and exclusive deals, 3) Free and faster delivery on all orders, 4) Priority customer support, 5) Birthday month special discount of 10%, 6) Quarterly surprise vouchers. Your past purchases can earn you approximately 2,000 SuperCoins (Rs. 2,000 value) retroactively! Enrollment takes just 30 seconds. May I sign you up now?"
+  },
+  {
+    "instruction": "Customer received wrong product (ordered red kurta, got blue kurta)",
+    "input": "",
+    "output": "I sincerely apologize for this error in your order. This is certainly not the experience we want to provide. I'll immediately arrange a replacement of the red kurta you originally ordered at no extra cost. Our delivery partner will pick up the incorrect blue kurta from your address within 24 hours. The correct red kurta will be dispatched on priority and reach you within 2-3 days. As an apology for the inconvenience, I'm adding a Rs. 300 voucher to your account for your next purchase. Thank you for your patience and understanding!"
+  },
+  {
+    "instruction": "A customer from Pune is asking about product installation charges for AC",
+    "input": "",
+    "output": "For air conditioner purchases in Pune, standard installation is absolutely FREE including gas charging, mounting brackets, and 3 meters of piping. The installation will be done by trained technicians within 24-48 hours of delivery. If you need additional piping beyond 3 meters (Rs. 500 per meter), outdoor unit stands (Rs. 800), or custom mounting requirements, there will be minimal charges that the technician will inform you about before starting work. We also provide 1-year warranty on installation workmanship. Installation can be scheduled at your preferred time slot. Would you like to schedule it now?"
+  },
+  {
+    "instruction": "How to handle an angry customer whose order was delayed by 4 days?",
+    "input": "",
+    "output": "I sincerely apologize for the delay in your order delivery. I completely understand your frustration, and this is not acceptable on our part. Let me immediately check the status - [checks system] Your order is currently at the local delivery hub and will be delivered today by 7 PM with priority. As a sincere apology, I'm processing a full refund of your shipping charges and adding a Rs. 500 compensation voucher to your account valid for 6 months. Would you also like me to arrange a callback from our senior manager to discuss how we can prevent this in future? We truly value your business and patience."
+  },
+  {
+    "instruction": "Customer asking about comparing our prices with competitors like Amazon and Flipkart",
+    "input": "",
+    "output": "Great question! We constantly monitor market prices to ensure you get the best deal. For this product, our price is competitive and often lower than Amazon and Flipkart when you factor in: 1) Additional bank offers and cashback, 2) Our loyalty program benefits (5% SuperCoins), 3) Longer warranty period at no extra cost, 4) Better after-sales service with local service centers, 5) No-questions-asked return policy. I can also price match if you found it cheaper elsewhere - just share the screenshot. Plus, we offer price protection - if price drops within 7 days of purchase, we refund the difference. Would you like to proceed?"
+  },
+  {
+    "instruction": "A wedding customer wants gift wrapping and personalized message for electronics",
+    "input": "",
+    "output": "Absolutely! We offer premium gift wrapping service for wedding gifts. For electronics, we provide elegant packaging with decorative wrapping, ribbon, and a personalized greeting card where you can add your custom message (up to 50 words). The gift wrapping charge is Rs. 149 for items up to Rs. 10,000 and Rs. 249 for items above Rs. 10,000. We ensure the product invoice is not included in the package. Additionally, we can send the gift directly to the recipient's address with your name as sender. The gift will be delivered in a discrete package. Shall I add gift wrapping to your order?"
+  },
+  {
+    "instruction": "How to cross-sell grocery subscription to a customer buying kitchen appliances?",
+    "input": "",
+    "output": "Since you're setting up your kitchen with these wonderful appliances, have you tried our SuperSaver grocery subscription? Get monthly essentials (rice, pulses, oil, spices) delivered to your doorstep with 10-15% savings compared to one-time purchases. First month is FREE (worth Rs. 1,500)! You can customize your box based on family size (2/4/6 members), pause/modify anytime, and get fresh products from trusted brands. Plus, subscribers get early access to flash sales on electronics. Over 50,000 Mumbai families are already saving Rs. 500-800 monthly. Would you like to try the first month free?"
+  },
+  {
+    "instruction": "Customer from Hyderabad concerned about product authenticity and fake products",
+    "input": "",
+    "output": "Excellent question! Product authenticity is our top priority. All our products are 100% genuine and sourced directly from authorized brand distributors or manufacturers. Each product comes with: 1) Authentic hologram stickers and serial numbers that you can verify on brand's website, 2) Official brand warranty cards, 3) GST invoice for warranty claims, 4) Original packaging with MRP labels. We're authorized retailers for all major brands. You can check our certifications on 'About Us' page. If you ever receive a suspicious product, we have a zero-tolerance policy and will immediately replace + compensate. Your order from Hyderabad will be fully verified before dispatch. Any other concerns?"
+  },
+  {
+    "instruction": "How to handle a customer asking for invoice modification for higher amount (tax fraud)?",
+    "input": "",
+    "output": "I understand your request, but I must inform you that we cannot modify invoices to show amounts different from actual transactions. This would violate GST regulations and company policy. All our invoices are auto-generated based on actual order value and synced with GST portal. Any discrepancy could lead to legal issues for both parties. However, I can provide you with a detailed invoice breakdown, order confirmation email, and payment receipt for your records. These documents are sufficient for expense claims, company reimbursements, or tax filing purposes. Is there a specific legitimate requirement I can help you with?"
+  },
+  {
+    "instruction": "A customer wants product recommendations for Raksha Bandhan gifts under Rs. 5000",
+    "input": "",
+    "output": "Lovely! Here are perfect Raksha Bandhan gift ideas under Rs. 5,000 for your sibling: For Brother: 1) Wireless earbuds with charging case (Rs. 2,999), 2) Smart fitness band (Rs. 3,499), 3) Electric trimmer grooming kit (Rs. 2,299), 4) Portable Bluetooth speaker (Rs. 3,999). For Sister: 1) Hair styling kit (Rs. 2,799), 2) Ethnic kurti and palazzo set (Rs. 1,999), 3) Designer jewelry box with accessories (Rs. 3,299), 4) Aromatherapy diffuser set (Rs. 2,199). All include free Rakhi, gift wrapping, and personalized card! Plus, 15% off on combos. Which category interests you?"
+  },
+  {
+    "instruction": "Customer from Ahmedabad asking about Navratri special offers on ethnic wear",
+    "input": "",
+    "output": "Perfect timing! Our Navratri Special Collection just launched with stunning chaniya cholis, kediyus, and traditional jewelry. Exclusive offers: 1) Buy 2 chaniya cholis, get 1 free, 2) Flat 40% off on all traditional jewelry, 3) Ethnic footwear at Rs. 499 only, 4) Free dandiya sticks with every purchase above Rs. 3,000. We have latest designs in vibrant colors - traditional Gujarati patterns, mirror work, and embroidery. Free alterations available at our Ahmedabad store or doorstep. Delivery across Gujarat in 24 hours. Plus, easy returns till Navratri ends (9 days). Would you like to see our bestselling designs? Happy Navratri!"
+  },
+  {
+    "instruction": "How to handle a customer who wants to speak with manager/escalation?",
+    "input": "",
+    "output": "I completely understand your concern, and I want to ensure this is resolved to your satisfaction. Before I escalate this to my manager, let me try to help you once more as I have full authority to resolve most issues immediately. Could you please share the specific problem you're facing? [Customer explains] Thank you for clarifying. I can [propose solution]. However, if you still wish to speak with my manager, I can arrange a callback within 2 hours or transfer your call now. My manager's email is also available if you prefer written communication: escalations@company.com. Your satisfaction is our priority. What would you prefer?"
+  },
+  {
+    "instruction": "Customer asking about international shipping to USA for Indian ethnic products",
+    "input": "",
+    "output": "Yes, we do ship internationally to the USA! For ethnic wear, home decor, and handicraft items, we offer reliable shipping through DHL/FedEx. Shipping time is 7-12 business days. Charges are calculated based on weight (starting from Rs. 1,500 for 1kg, Rs. 3,000 for 2kg). Custom duties and taxes in USA are customer's responsibility (typically 10-15% of product value). We provide full tracking and insurance on all international shipments. For orders above Rs. 25,000, we offer flat Rs. 2,000 shipping. Payment accepted in USD via international credit cards or PayPal. Returns not available for international orders. Shall I calculate exact shipping cost for your items?"
+  },
+  {
+    "instruction": "A student customer asking for education discount on laptop purchase",
+    "input": "",
+    "output": "Absolutely! We support students with our exclusive Student Discount Program. Show your valid student ID card (school/college) or educational institution email, and get: 1) Flat 5% additional discount on laptops and tablets (on top of sale price), 2) Free laptop bag and wireless mouse worth Rs. 1,299, 3) Extended warranty for 1 additional year free, 4) Priority delivery within 24 hours, 5) Free Microsoft Office Home & Student edition. The discount applies to students from class 10 to postgraduate level. Simply upload your ID proof during checkout or email to student@company.com. Offer valid all year round. Which laptop model are you interested in?"
+  },
+  {
+    "instruction": "How to handle a customer complaint about product quality received from seller?",
+    "input": "",
+    "output": "I sincerely apologize for receiving a substandard quality product. Your satisfaction is paramount to us. Please share clear photos of the product showing quality issues along with your order ID at quality@company.com. I'm immediately initiating: 1) Full refund or free replacement (your choice), 2) Free reverse pickup within 24 hours, 3) Rs. 500 voucher for the inconvenience. We'll also take strict action against the seller and review their products. This incident will be reported to our quality team. If you choose replacement, we'll ensure it's fulfilled by us directly (not third-party seller) from our verified stock. Would you prefer refund or replacement?"
+  },
+  {
+    "instruction": "Customer asking about corporate gifting solutions for Diwali for 200 employees",
+    "input": "",
+    "output": "Wonderful! Our corporate gifting division specializes in bulk Diwali hampers. For 200 employees, we offer customized gift boxes starting from Rs. 500 to Rs. 5,000 per unit. Popular options: 1) Premium dry fruits hamper (Rs. 1,200), 2) Electronics combo - powerbank + wireless earbuds (Rs. 1,800), 3) Traditional hamper - silver idol, sweets, diyas (Rs. 2,500), 4) Wellness kit - essential oils, tea, organic products (Rs. 1,500). All include: Custom company branding, personalized greeting cards, premium packaging, bulk delivery to office address, dedicated account manager, GST invoice, flexible payment terms. For 200 units, you get 20% bulk discount. Would you like a detailed catalog or meeting with our B2B team?"
+  },
+  {
+    "instruction": "A customer wants to know about our price match guarantee policy",
+    "input": "",
+    "output": "Yes, we have a comprehensive Price Match Guarantee! If you find the exact same product (model number, color, specifications) at a lower price on any major competitor's website (Amazon, Flipkart, or authorized brand stores) within 7 days of your purchase, we'll: 1) Refund 100% of the price difference plus additional 10% of the difference as credit voucher, 2) Process refund within 3-5 business days. To claim: Submit screenshot showing lower price, product URL, and your order ID to pricematch@company.com. Exclusions: Different sellers, open-box items, clearance sales, expired offers. Our team verifies and approves within 24 hours. This policy ensures you always get the best deal with us. Shop with confidence!"
+  },
+  {
+    "instruction": "How to sell extended warranty to a hesitant customer?",
+    "input": "",
+    "output": "I understand extended warranty might seem like an extra expense, but let me explain why it's valuable: This Rs. 55,000 refrigerator's standard warranty covers only 1 year. Our 2-year extended warranty (Rs. 2,499) covers parts, labor, gas charging, and unlimited service calls - typical repair costs Rs. 3,000-8,000. Over 3 total years, you're protected against: compressor failure (Rs. 8,000 repair), cooling issues (Rs. 4,000), door seal replacement (Rs. 2,500). It's essentially insurance for your investment. Many customers have saved Rs. 10,000+ during years 2-3. Plus, priority service within 24 hours. Think of it as Rs. 104 per month for complete peace of mind. Would you like to add it? You can't buy it later."
+  },
+  {
+    "instruction": "Customer from Lucknow asking about local language support for customer service",
+    "input": "",
+    "output": "Absolutely! We offer customer support in multiple Indian languages including Hindi, which is perfect for you in Lucknow. Our customer care representatives are available 24/7 to assist you in Hindi through: 1) Phone support (1800-XXX-XXXX) - select option 2 for Hindi, 2) WhatsApp chat (+91-XXXXXXXXXX), 3) Website chat - select language preference, 4) Email support in Hindi. We also have regional support for Tamil, Telugu, Bengali, Marathi, and Gujarati. Our goal is to make your shopping experience comfortable in your preferred language. आप हिंदी में आराम से बात कर सकते हैं। Would you like to connect with our Hindi support team now?"
+  },
+  {
+    "instruction": "How to handle a price drop complaint from customer who bought 5 days ago?",
+    "input": "",
+    "output": "I completely understand your concern about the price drop! We have a 7-day Price Protection policy for exactly this situation. Since you purchased the product just 5 days ago and the price has dropped by Rs. 2,000, you're eligible for a full refund of the difference. I'm immediately initiating: 1) Rs. 2,000 credit refund to your original payment method (3-5 business days), OR 2) Rs. 2,000 store credit available instantly for your next purchase. No need to return or re-order the product. You just happened to buy during a timing that worked in your favor because of our policy! Which refund option would you prefer? Thank you for choosing us!"
+  },
+  {
+    "instruction": "Customer wants to know about our environmental and sustainability initiatives",
+    "input": "",
+    "output": "Great question! We're committed to environmental sustainability through several initiatives: 1) Plastic-free packaging - using recycled cardboard and paper (eliminated 50 tons of plastic annually), 2) E-waste collection - free pickup of old electronics for responsible recycling (partnered with authorized recyclers), 3) Carbon-neutral delivery in 15 cities - electric vehicles for last-mile, 4) Eco-friendly product range with 'Green' label, 5) Paperless invoices and receipts, 6) Energy-efficient warehouses with solar panels. For every product sold, we plant a tree (planted 1 lakh trees in 2024). Customers can opt-in for eco-friendly packaging at checkout. We're certified by ISO 14001 for environmental management. Would you like to contribute by choosing eco-packaging for your order?"
+  },
+  {
+    "instruction": "A customer wants to split payment between gift card, wallet, and credit card",
+    "input": "",
+    "output": "Absolutely! We support multiple payment modes in a single transaction. At checkout, you can use payment combinations: 1) Apply gift card balance (Rs. 2,000) - it will deduct first, 2) Use wallet/SuperCoins (Rs. 1,500) - deducted next, 3) Remaining amount (Rs. 4,500) pay via credit card, UPI, or net banking. The system automatically calculates and splits payments in this order. You'll receive a single invoice showing all payment methods used. Benefits are applicable across all modes - cashback on card payment, points redemption on wallet, gift card has no expiry. This way you can maximize savings and utilize all available balances. Proceed to checkout and select 'Multiple Payment Options' to combine. Easy and convenient!"
+  },
+  {
+    "instruction": "How to handle a customer who received a different brand product than ordered?",
+    "input": "",
+    "output": "I sincerely apologize for this serious error - this is completely unacceptable. Receiving a different brand is a major mistake on our part. Let me immediately resolve this: 1) I'm arranging free pickup of the wrong product within 24 hours, 2) Your correct brand product will be dispatched today on priority delivery (1-2 days), 3) Full refund if you prefer not to wait, 4) Rs. 1,000 compensation voucher added to your account, 5) This incident is being reported to warehouse team for investigation. You won't be charged anything additional. As the senior supervisor, I'm personally monitoring your replacement order. May I have your order ID to expedite this? Again, deepest apologies for this inconvenience."
+  },
+  {
+    "instruction": "Customer from Indore asking about same-day delivery option and charges",
+    "input": "",
+    "output": "Good news! Same-day delivery is available in Indore for orders placed before 12 PM noon. Charges: Rs. 99 for orders below Rs. 2,000, FREE for orders above Rs. 2,000. Delivery happens between 6 PM - 10 PM same day. Available for: Electronics, fashion, groceries, and home essentials (3,000+ products eligible - check 'Same Day' badge on product page). Not available for large appliances, furniture, or customized items. Coverage areas: Vijay Nagar, Palasia, Saket, MG Road, and 12 other localities in Indore. At checkout, select 'Same-Day Delivery' option and choose your preferred time slot. Order tracking available real-time. Would you like to filter products eligible for same-day delivery?"
+  },
+  {
+    "instruction": "How to sell a product bundle/combo to increase cart value?",
+    "input": "",
+    "output": "Great choice on the Samsung Galaxy phone! I have an exclusive combo offer that will save you money and give you everything needed: **Ultimate Mobile Combo Pack (Save Rs. 3,500):** 1) Samsung Galaxy Phone - Rs. 22,999, 2) Wireless earbuds - Rs. 2,999 → Rs. 1,999, 3) Tempered glass + back cover - Rs. 699 → Rs. 399, 4) 20W fast charger - Rs. 899 → FREE, 5) 1-year damage protection - Rs. 1,499 → Rs. 999. **Combo Total: Rs. 26,396 (MRP Rs. 29,095)**. You save Rs. 3,500 + get everything in one go + no-hassle protection! Plus, free delivery and setup. This is our bestselling combo with 10,000+ happy customers. Shall I add it to your cart? It's a limited-time offer."
+  },
+  {
+    "instruction": "Customer asking about review authenticity and fake reviews on our platform",
+    "input": "",
+    "output": "Excellent question! Review authenticity is crucial for trust. We have a strict verified purchase policy: 1) Only 'Verified Buyer' badge reviews from actual customers who purchased from us, 2) AI-powered fake review detection removes suspicious reviews, 3) Vendors cannot post self-reviews (monitored continuously), 4) Customer photos and videos given priority (unedited), 5) Detailed reviews (>50 words) ranked higher. We've removed 50,000+ fake reviews in 2024. You can filter by 'Verified Purchases Only' and 'With Photos' for authentic feedback. Our review system is certified by third-party audit agencies. We encourage you to review products honestly after purchase - it helps millions of shoppers make informed decisions. Trust and transparency are our core values."
+  },
+  {
+    "instruction": "How to handle a customer threatening legal action over delayed refund?",
+    "input": "",
+    "output": "I understand your frustration, and I sincerely apologize for the delay in your refund. This is absolutely not acceptable. Let me escalate this immediately to our finance team with highest priority. [Checks system] I see your refund of Rs. 12,500 was initiated 12 days ago but hasn't been credited yet due to a bank processing delay. I'm taking the following actions right now: 1) Escalating to our Payments Head for immediate resolution (will call you within 2 hours), 2) Requesting expedited bank transfer via NEFT today itself, 3) Adding Rs. 1,000 compensation to your account. I'll personally monitor this and update you by evening. You'll receive the refund confirmation by tomorrow. Your concern is completely valid. Can I have your preferred contact time for our Payments Head to call?"
+  },
+  {
+    "instruction": "Customer from Gurgaon wants to know about office pickup for laptop return",
+    "input": "",
+    "output": "Absolutely! We offer free office/workplace pickup for returns in Gurgaon. Once you initiate the return through 'My Orders', you can enter your office address as pickup location. Our delivery partner will call you to schedule pickup during your preferred time slot (10 AM - 7 PM on weekdays, 10 AM - 5 PM on Saturdays). Please ensure: 1) Laptop is in original packaging with all accessories, 2) Reset to factory settings and remove personal data, 3) Keep invoice ready for verification. You can hand it over to reception/security if you're in a meeting - just inform them. Pickup happens within 1-2 business days, and refund is initiated after quality check (3-4 days). No need to take leave for this. Convenient, right?"
+  },
+  {
+    "instruction": "A senior citizen customer needs help with online payment and app usage",
+    "input": "",
+    "output": "I'm happy to help you with the ordering process! Let me guide you step-by-step: 1) After adding products to cart, click 'Proceed to Checkout', 2) Confirm your delivery address (we can update if needed), 3) For payment, I recommend 'Cash on Delivery' which is simplest - you pay when product arrives at your door, 4) If you prefer online payment, net banking is easiest - select your bank, it will redirect to your bank's website, enter your credentials, and confirm. Alternatively, I can take your order over phone right now - just share the product details and delivery address. We also offer assisted video call ordering where our team helps you via WhatsApp video. Our senior citizen helpline (1800-XXX-YYYY) is available 9 AM - 9 PM daily. Would you like me to place the order for you over phone?"
+  },
+  {
+    "instruction": "Customer wants to know about our data privacy and security measures",
+    "input": "",
+    "output": "Excellent concern! Your data security and privacy are our highest priority. Our security measures include: 1) 256-bit SSL encryption for all transactions, 2) PCI-DSS Level 1 certified payment gateway (highest security standard), 3) No storage of card CVV or full card numbers, 4) Two-factor authentication for account access, 5) Regular security audits by third-party firms, 6) GDPR and India's Data Protection Act compliant, 7) Your data is never sold to third parties. We use data only for: order processing, personalized recommendations, and customer support. You can: view, edit, delete your data anytime, opt-out of marketing communications, request data deletion. Our Privacy Policy is transparent (check 'Privacy' in footer). We're certified by ISO 27001 for information security. Your trust is our responsibility."
+  },
+  {
+    "instruction": "How to cross-sell insurance with electronics purchase?",
+    "input": "",
+    "output": "Protecting your new Rs. 85,000 laptop investment is smart! Our device insurance is comprehensive and affordable: **1-Year Accidental Damage Protection (Rs. 2,999):** Covers: Liquid damage, screen cracks, fire damage, theft, electrical surges. Benefits: Doorstep repair/replacement, no questions asked claims, 48-hour resolution, unlimited claims, India-wide coverage. Real scenario: Customer's coffee spilled on laptop (Rs. 35,000 repair) - insurance covered fully, paid Rs. 0. Another customer's laptop stolen from office - got full replacement. For Rs. 250/month, you get complete peace of mind. 95% of our customers opt for this. Claim success rate: 98%. Without insurance, average accidental repair cost: Rs. 15,000-40,000. Would you like to add this protection?"
+  },
+  {
+    "instruction": "Customer asking about festive advance booking for Diwali products with delivery later",
+    "input": "",
+    "output": "Fantastic planning ahead! Yes, we have 'Festive Advance Booking' for Diwali products. Benefits: 1) Lock current sale prices (prices may increase closer to Diwali), 2) Guaranteed stock (popular items sell out fast), 3) Additional 5% early bird discount, 4) Choose your delivery date between Oct 20 - Nov 5, 5) Pay 25% advance now, balance at delivery, OR full payment now with 0% interest EMI. Products available: Electronics, decorative lights, gift hampers, ethnic wear, home decor, appliances. Your order is reserved and dispatched as per your chosen date. You can modify delivery date till 7 days before. Over 50,000 customers used this last year successfully. Perfect way to avoid last-minute rush and stock-outs! Shall I help you book?"
+  },
+  {
+    "instruction": "How to handle a customer upset about receiving a product with different manufacturing date",
+    "input": "",
+    "output": "Thank you for bringing this to my attention. I understand your concern about receiving a product with an older manufacturing date. Let me clarify: All our products are within acceptable shelf-life and quality standards. For the shampoo you received with July 2024 manufacturing date, the expiry is July 2027 (3 years), giving you 2.5 years of safe usage. However, if you prefer a fresher batch, I'm happy to arrange a replacement with latest manufacturing date at no cost. Alternatively, I can offer you a 20% refund if you're comfortable keeping the current product. We ensure no expired or near-expiry products are sold. This is clearly mentioned in our quality policy. What would you prefer - replacement with latest batch or partial refund?"
+  },
+  {
+    "instruction": "Customer from Surat asking about diamond jewelry certification and authenticity",
+    "input": "",
+    "output": "Absolutely right to ask! All our diamond jewelry comes with authentic certification and guarantees: 1) IGI or GIA certification for diamonds (included with each piece), 2) Hallmark certification for gold purity (BIS hallmark - 916 for 22K, 750 for 18K), 3) Certificate of Authenticity from jeweler, 4) Lifetime exchange policy and buyback guarantee, 5) Detailed invoice with diamond specifications (cut, clarity, carat, color). Each diamond is laser-inscribed with certificate number (visible under microscope - you can verify at any jeweler). Our Surat showroom has certified gemologists who can explain certifications in detail. We're certified members of Gem & Jewellery Export Promotion Council (GJEPC). 100% genuine, 100% certified. Would you like to visit our showroom or order online with free home trial?"
+  },
+  {
+    "instruction": "How to handle a customer asking why our prices are cheaper than brand website?",
+    "input": "",
+    "output": "Great observation! Our competitive pricing is possible due to several factors: 1) Bulk procurement directly from manufacturers (volume discounts passed to customers), 2) Lower overhead costs compared to physical brand stores, 3) Partnerships and exclusive tie-ups with brands for promotional pricing, 4) Festive sales and platform discounts (we absorb some margin), 5) Efficient supply chain and logistics. Rest assured: All products are 100% genuine, come with full manufacturer warranty, sourced from authorized distributors. Our invoices are accepted by brand service centers. We're authorized retailers for all brands we sell (certifications on our website). Many brands themselves sell on our platform. You're getting the exact same product at a better price with same warranty and service. Smart shopping choice!"
+  }
+]
+

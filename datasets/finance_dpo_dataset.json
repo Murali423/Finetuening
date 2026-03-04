@@ -1,0 +1,266 @@
+[
+  {
+    "prompt": "What is the current GST rate for restaurant services in India?",
+    "chosen": "Restaurant services in India attract 5% GST without Input Tax Credit (ITC) benefit. This unified rate applies to both AC and non-AC restaurants since 2017. If alcohol is served, GST applies only to food items as alcohol is taxed separately under state VAT. For outdoor catering services, 18% GST with ITC applies. Cloud kitchens and food delivery also fall under 5% GST.",
+    "rejected": "GST rate for restaurants is 18% in India. You need to pay this on all restaurant bills including service charges and tips."
+  },
+  {
+    "prompt": "How can I save income tax legally in India?",
+    "input": "",
+    "chosen": "Legal tax-saving options include: Section 80C (Rs. 1.5L) - PPF, ELSS, insurance, tuition fees; Section 80D (Rs. 25K/50K) - health insurance; Section 80CCD(1B) (Rs. 50K) - NPS; HRA exemption; home loan interest (Rs. 2L under 24b); LTA; standard deduction (Rs. 50K). Also consider new tax regime vs old regime based on your deductions. Maintain proper documentation and submit investment proofs to employer by January.",
+    "rejected": "Just invest in mutual funds and you can save all your taxes. You don't need to worry about any documentation or limits."
+  },
+  {
+    "prompt": "What is the difference between SIP and lumpsum investment in mutual funds?",
+    "input": "",
+    "chosen": "SIP (Systematic Investment Plan): Regular monthly investments, rupee cost averaging benefit, reduces timing risk, suitable for salaried individuals, minimum Rs. 500/month, builds discipline. Lumpsum: One-time large investment, requires timing the market, higher initial capital needed, better during market corrections, potentially higher returns in bull markets. For beginners, SIP is recommended to minimize risk. You can use SIP-lumpsum combination based on cash flow and market conditions.",
+    "rejected": "SIP is better than lumpsum. Always invest in SIP only. Lumpsum is risky and you should avoid it completely."
+  },
+  {
+    "prompt": "How does the RBI repo rate affect my home loan EMI?",
+    "input": "",
+    "chosen": "RBI repo rate is the rate at which banks borrow from RBI. When repo rate increases, banks' borrowing costs rise, leading to increased lending rates (MCLR/RLLR). For existing home loans on floating rates, your EMI or tenure increases. For example, if repo rate increases by 0.50%, your loan rate may increase by 0.40-0.50%, adding thousands to your annual outgo. Conversely, repo rate cuts reduce EMIs. Fixed-rate loans remain unaffected. Most home loans in India are floating rate linked to MCLR/RLLR.",
+    "rejected": "Repo rate doesn't affect your home loan. EMI remains same regardless of RBI policy changes. Only new loans get affected by repo rate."
+  },
+  {
+    "prompt": "What is the best investment option for 5 years with moderate risk?",
+    "input": "",
+    "chosen": "For 5-year moderate risk investment, consider: 1) Balanced/Hybrid mutual funds (60% equity, 40% debt) - expected 10-12% returns, 2) Tax-saving ELSS funds - 15-18% historical returns with lock-in, 3) Corporate FDs from AAA-rated NBFCs - 7-8.5% assured returns, 4) Government bonds/SDL - 7-7.5% risk-free, 5) Balanced portfolio: 50% ELSS/equity funds + 30% debt funds + 20% FD/PPF. Diversification reduces risk. Consider your tax slab, liquidity needs, and risk appetite before investing.",
+    "rejected": "Best option is crypto currency for 5 years. You can easily get 50-100% returns. Mutual funds give very low returns so avoid them."
+  },
+  {
+    "prompt": "How do I file ITR-1 (Sahaj) form online?",
+    "input": "",
+    "chosen": "Steps to file ITR-1 online: 1) Login to incometax.gov.in with PAN, 2) Select Assessment Year 2024-25, 3) Choose ITR-1 (for salary income <50L, one house, other income <5K), 4) Pre-filled data auto-loads - verify salary (Form 16), TDS, bank interest, 5) Enter/verify deductions (80C, 80D), 6) Calculate tax, check refund/demand, 7) Verify details and submit, 8) E-verify using Aadhaar OTP/net banking within 30 days. Download acknowledgment. Check refund status after 7-10 days. Deadline: July 31st.",
+    "rejected": "Just download the form, fill it on paper, and submit at income tax office. Online filing is complicated and not necessary for most people."
+  },
+  {
+    "prompt": "What is the difference between term insurance and endowment policy?",
+    "input": "",
+    "chosen": "Term Insurance: Pure protection, high cover at low premium (Rs. 1 crore for Rs. 12K/year), no maturity benefit, claim only on death, suitable for income protection. Endowment Policy: Insurance + Investment, high premium (Rs. 50K+ for Rs. 10L cover), maturity benefit after 15-20 years, low returns (4-6%), suitable for forced savings. Recommendation: Buy term insurance for protection (10-15x annual income) and invest separately in mutual funds/PPF for better returns. Don't mix insurance and investment.",
+    "rejected": "Endowment policy is always better as you get money back at maturity. Term insurance is waste of money if you survive the term."
+  },
+  {
+    "prompt": "How does PPF (Public Provident Fund) work in India?",
+    "input": "",
+    "chosen": "PPF is a government-backed savings scheme. Key features: 15-year lock-in (extendable in 5-year blocks), minimum Rs. 500 and maximum Rs. 1.5L investment per year (qualifies for 80C), current interest 7.1% (revised quarterly), tax-free interest and maturity (EEE status), partial withdrawal after 5 years, loan facility from 3rd to 6th year, annual 12 deposits allowed, can extend indefinitely post 15 years. Open account at post office or authorized banks. Ideal for risk-free long-term wealth creation and retirement planning.",
+    "rejected": "PPF is old-fashioned scheme with very low returns. Better to invest everything in stock market for higher returns. No one should invest in PPF anymore."
+  },
+  {
+    "prompt": "What are the charges for equity mutual fund investments?",
+    "input": "",
+    "chosen": "Equity mutual fund charges: 1) Expense Ratio: 0.5-2.5% annually (regular plan higher than direct plan), 2) Exit Load: 1% if redeemed before 1 year (mostly), 3) STT (Securities Transaction Tax): 0.001% on redemption, 4) LTCG Tax: 12.5% on gains >Rs. 1.25L (holding >1 year), 5) STCG Tax: 20% on gains (holding <1 year). Direct plans save 0.5-1% commission vs regular plans. Choose direct plans through AMC websites/apps for lower costs. NFO may have no exit load initially.",
+    "rejected": "Mutual funds have very high hidden charges up to 10-15% which eat all your returns. Better to directly invest in stocks to avoid all charges."
+  },
+  {
+    "prompt": "How can NRIs invest in India?",
+    "input": "",
+    "chosen": "NRI investment options: 1) Bank accounts: NRE/NRO/FCNR accounts in Indian banks, 2) Mutual funds: Via NRE account with KYC (PIS not required), 3) Stocks: Need PIS (Portfolio Investment Scheme) permission from bank, 4) Real estate: Allowed except agricultural land, 5) PPF: Can't open new but continue existing, 6) FD/bonds: Through NRE/NRO accounts. Tax: NRE interest tax-free, NRO interest taxable. Repatriation: NRE fully repatriable, NRO up to $1M annually with CA certificate. Use FEMA-compliant platforms for investments.",
+    "rejected": "NRIs cannot invest in India at all. They can only send money to relatives. All investments are blocked for NRIs by RBI."
+  },
+  {
+    "prompt": "What is Credit Score and how to improve it?",
+    "input": "",
+    "chosen": "Credit Score (CIBIL score) ranges 300-900, indicates creditworthiness. 750+ is excellent for loan approvals at best rates. Factors affecting: Payment history (35%), credit utilization (30%), credit age (15%), credit mix (10%), recent inquiries (10%). To improve: Pay EMIs/credit card bills on time, keep credit utilization <30%, don't close old cards, limit loan applications, check credit report annually for errors, maintain 3-5 year credit history, mix of secured/unsecured credit. Free annual report at cibil.com. Takes 6-12 months to significantly improve score.",
+    "rejected": "Credit score doesn't matter much. Banks will give loans even with 500 score. Just apply for multiple credit cards to improve score quickly."
+  },
+  {
+    "prompt": "Should I prepay home loan or invest in mutual funds?",
+    "input": "",
+    "chosen": "Analysis: If home loan rate is 8.5% and you're in 30% tax bracket, effective post-tax cost is ~6% (considering 80C and 24b deductions). Equity mutual funds can potentially give 12-14% long-term. Mathematical advantage: investing. However, consider: loan prepayment gives guaranteed 8.5% return, reduces EMI burden, peace of mind. Balanced approach: Prepay partially to reduce principal, invest remaining in 70:30 equity:debt mix. If loan rate >9%, prioritize prepayment. If <8%, prioritize investing. Consider risk appetite, job stability, and goals.",
+    "rejected": "Always prepay home loan first. Never invest in mutual funds until all loans are cleared. Debt-free life is the only way to financial freedom."
+  },
+  {
+    "prompt": "What is Sukanya Samriddhi Yojana and its benefits?",
+    "input": "",
+    "chosen": "SSY is a government scheme for girl child (below 10 years). Features: Minimum Rs. 250, maximum Rs. 1.5L per year, 21-year maturity or marriage after 18 years, current interest 8.2% (quarterly revised), compounding annual, 80C deduction available, interest and maturity tax-free (EEE), partial withdrawal (50%) allowed after 18 years for education. Premature closure allowed for life-threatening illness or death. One account per girl child, maximum 2 girls per family. Higher returns than PPF, ideal for girl child's education and marriage. Open at post office or authorized banks.",
+    "rejected": "SSY is not worth it. Better to invest in child insurance plans from LIC which give much higher returns and also provide insurance cover."
+  },
+  {
+    "prompt": "How does ELSS mutual fund provide tax benefit?",
+    "input": "",
+    "chosen": "ELSS (Equity Linked Savings Scheme) provides tax deduction under Section 80C up to Rs. 1.5 lakhs, reducing taxable income. For 30% tax bracket, Rs. 1.5L investment saves Rs. 46,800 in taxes. Features: Shortest lock-in (3 years) among 80C options, equity-oriented (potential 12-18% returns), post-tax returns significantly higher than FD/PPF, LTCG tax 12.5% on gains >Rs. 1.25L after 3 years. Start monthly SIP of Rs. 12,500 to maximize 80C. Better than traditional insurance policies which have 15-20 year lock-in and low returns. Suitable for aggressive investors seeking tax savings + wealth creation.",
+    "rejected": "ELSS is high-risk mutual fund. You may lose all your money. Better to invest in LIC policies or PPF for guaranteed returns and tax benefits."
+  },
+  {
+    "prompt": "What is the difference between Demat and Trading account?",
+    "input": "",
+    "chosen": "Demat Account: Stores shares/securities electronically (like a bank account for shares), opened with Depository Participant (DP), charges: AMC Rs. 300-750/year, no trading possible. Trading Account: Used to place buy/sell orders in stock market, linked to demat and bank account, charges: brokerage (0.01-0.5% or flat fee per order). You need both: Trading account to execute trades, Demat account to hold shares. Bank account for funds. Choose broker offering 3-in-1 account (ICICI, HDFC) or discount broker (Zerodha, Groww) based on trading frequency and services needed.",
+    "rejected": "Demat and trading account are same thing with different names. You only need one account to trade in stock market. Both are not necessary."
+  },
+  {
+    "prompt": "How to invest in government bonds and SDL?",
+    "input": "",
+    "chosen": "Government bonds (G-Sec) and State Development Loans (SDL) are sovereign debt instruments. Investment methods: 1) RBI Retail Direct portal (retail investors, zero fees, min Rs. 10K), 2) NSE/BSE goBID platform (auctions), 3) Mutual funds (Gilt funds invest in G-Sec), 4) Bond ETFs. Features: Safe investment (sovereign guarantee), fixed interest (7-7.5%), tenure 5-40 years, semi-annual interest payout, taxable as per slab, TDS applicable. SDL gives 0.25-0.50% higher yield than G-Sec. Suitable for risk-averse investors seeking better returns than FD with high safety. Can buy/sell in secondary market.",
+    "rejected": "Government bonds give very low returns and are difficult to buy. Only large investors can buy them. Retail investors should stick to FDs only."
+  },
+  {
+    "prompt": "What is the new vs old tax regime for AY 2024-25?",
+    "input": "",
+    "chosen": "Old Regime: Slabs 0-2.5L (nil), 2.5-5L (5%), 5-10L (20%), >10L (30%), allows all deductions (80C, 80D, HRA, LTA), 87A rebate up to 5L. New Regime: Slabs 0-3L (nil), 3-6L (5%), 6-9L (10%), 9-12L (15%), 12-15L (20%), >15L (30%), standard deduction Rs. 50K only, no other deductions, 87A rebate up to 7L. Choose old if deductions >Rs. 2.5-3L, choose new if salary >Rs. 15L or minimal deductions. Can switch annually. New regime is default from AY 2024-25. Use tax calculator to compare based on your investments.",
+    "rejected": "New tax regime is always better for everyone. Old regime is outdated. Everyone should switch to new regime to save maximum taxes."
+  },
+  {
+    "prompt": "How does SBI credit card reward points system work?",
+    "input": "",
+    "chosen": "SBI credit card reward points: Earning: SimplyCLICK-10x on select partners, 5x online, 1x other; SimplySAVE-10x on dining/groceries, 5x other categories; Elite/Prime-2 points per Rs. 100. Redemption: 1 point = Rs. 0.25 value, minimum 500 points for vouchers, no expiry on premium cards, 2-3 year expiry on basic cards. Best use: Amazon/Flipkart vouchers, flight bookings, merchandise. Accelerated points on milestone spend. Check reward catalog on sbicard.com. For maximum benefits, align card usage with bonus categories (fuel, dining, online shopping) and redeem timely.",
+    "rejected": "All SBI credit cards give same reward points. 1 point equals 1 rupee. Points never expire and can be converted to cash directly in your account."
+  },
+  {
+    "prompt": "What is the penalty for late payment of credit card bill?",
+    "input": "",
+    "chosen": "Credit card late payment consequences: 1) Late payment fee: Rs. 100-1,300 based on outstanding (>Rs. 10K attracts higher penalty), 2) Interest charges: 3-3.5% per month (36-42% annual) on outstanding from transaction date, 3) Loss of interest-free period for 2-3 months, 4) Negative impact on CIBIL score (can drop 50-100 points), 5) Overdue reported to credit bureau affecting future loans. If you pay minimum due, no late fee but interest charged on remaining. Solution: Set auto-pay, pay full amount by due date. Even 1 day delay attracts penalty. If facing issues, call bank for waiver or payment plan.",
+    "rejected": "Late payment penalty is just Rs. 100. Credit score is not affected by late payment. You can delay payment by 2-3 months without any major issues."
+  },
+  {
+    "prompt": "How to claim medical insurance tax benefit under Section 80D?",
+    "input": "",
+    "chosen": "Section 80D allows deduction for medical insurance premium: Self+spouse+children - Rs. 25,000, Parents (below 60) - Rs. 25,000, Parents (above 60) - Rs. 50,000. Maximum Rs. 75,000 if all senior citizens. Additional Rs. 5,000 for preventive health check-up (within above limits). Eligible: Insurance premium (not cash medical bills), paid by any mode (not cash), for self/family/parents. Claim: Submit insurance receipts to employer or while filing ITR. Deduction on premium paid, not sum insured. Top-up insurance also eligible. Keep policy documents and payment receipts for verification. Saves Rs. 15,600-23,400 tax (20-30% bracket).",
+    "rejected": "You can claim unlimited medical expenses under 80D. All hospital bills can be claimed for tax deduction. No need to buy insurance policy."
+  },
+  {
+    "prompt": "What is the best way to transfer money abroad?",
+    "input": "",
+    "chosen": "Options for international money transfer: 1) Bank wire (SWIFT): Secure, Rs. 500-2,000 charges, 2-3 days, exchange rate markup 2-3%, 2) Online platforms (Wise, Remitly, Western Union): Lower charges, better rates, 24-48 hours, 3) ICICI Money2World, SBI abroad: Bank + better rates than SWIFT, 4) PayPal/Payoneer: For small amounts, higher fees, instant. For large amounts (>$5,000): Bank SWIFT. For regular transfers: Wise (transparent, mid-market rate). Documents: PAN, purpose code, invoice/documents as per RBI/FEMA. Limit: $250,000 per year under LRS scheme. Compare rates and fees before transferring.",
+    "rejected": "Only banks can transfer money abroad. Online platforms are illegal and unsafe. Always use bank branch only for international transfers, no other option available."
+  },
+  {
+    "prompt": "How does gold investment in India work?",
+    "input": "",
+    "chosen": "Gold investment options: 1) Physical gold (coins, bars, jewelry): Making charges 8-25%, storage risk, 3% GST, 2) Digital gold (apps): Minimum Rs. 10, purity 24K, storage with vault, 3% GST, 3) Sovereign Gold Bonds: Government backed, 2.5% annual interest, 8-year lock-in (exit after 5), capital gains tax-free on maturity, issue price discount, 4) Gold ETFs: Trade like stocks, low expense ratio, demat needed, 5) Gold mutual funds: Invest in gold ETFs, SIP available. SGBs best for long-term (interest + price appreciation). ETFs for trading. Physical for jewelry needs. Avoid jewelry for investment (high making charges).",
+    "rejected": "Only physical gold jewelry is the best investment. Digital gold and gold bonds are fake and risky. Always buy gold jewelry from local jewelers only."
+  },
+  {
+    "prompt": "What is Atal Pension Yojana and who should invest?",
+    "input": "",
+    "chosen": "Atal Pension Yojana (APY) is government pension scheme for unorganized sector workers. Features: Entry age 18-40 years, pension starts at 60, guaranteed pension Rs. 1,000-5,000/month based on contribution, spouse gets pension after subscriber's death, nominee gets corpus on both deaths, Aadhaar linked, auto-debit from bank. Contribution: Rs. 42-1,454 per month based on age and pension amount. Suitable for: Unorganized workers, self-employed, no EPF members. Not suitable for: Salaried with EPF (NPS better), high earners (returns modest 7-8%). Government contributes 50% for eligible subscribers. Withdraw only at 60 or death. Tax: Contributions under 80CCD(1), pension taxable.",
+    "rejected": "Atal Pension Yojana is for everyone and gives very high returns. Everyone should invest maximum amount in APY to get huge pension at retirement."
+  },
+  {
+    "prompt": "How to calculate real returns after inflation?",
+    "input": "",
+    "chosen": "Real return = [(1 + nominal return) / (1 + inflation rate)] - 1. Example: Investment gives 12% return, inflation is 6%. Real return = [(1.12/1.06) - 1] = 5.66%. Simple formula (approximate): Real return = Nominal return - Inflation. Impact: FD at 7% with 6% inflation = 1% real return (wealth barely grows). Equity at 14% with 6% inflation = 7.5% real return (wealth doubles in ~10 years). Always consider real returns for long-term planning. High inflation erodes purchasing power. Target investments giving at least 3-4% real returns post-tax. For retirement planning, assume 6-7% inflation for realistic corpus calculation.",
+    "rejected": "Real return and nominal return are same thing. Inflation doesn't affect your investment returns at all. Just focus on nominal returns only."
+  },
+  {
+    "prompt": "What is the difference between regular and direct mutual funds?",
+    "input": "",
+    "chosen": "Regular Plan: Bought through distributor/broker, includes commission (0.5-1.5%), higher expense ratio (1.5-2.5%), returns lower by 1-1.5% annually, advisory support available. Direct Plan: Bought directly from AMC/website/apps, no commission, lower expense ratio (0.5-1.5%), returns higher by 1-1.5% annually, no advisory support. Example: Rs. 10L invested for 20 years at 12% (regular) = Rs. 96.5L vs 13% (direct) = Rs. 1.15 crore (Rs. 18.5L difference). Recommendation: Direct plans for DIY investors, Regular plans if you need advice and handholding. Use AMC websites, Coin by Zerodha, Groww Direct, PayTM Money for direct plans. Can switch from regular to direct (exit load applicable).",
+    "rejected": "Regular and direct mutual funds give exactly same returns. Direct plans are only available for large investors investing crores. Common investors should always buy regular plans only."
+  },
+  {
+    "prompt": "How does car loan interest calculation work?",
+    "input": "",
+    "chosen": "Car loans use reducing balance method: Interest charged on outstanding principal. Example: Rs. 5L loan at 9% for 5 years. Monthly interest = Outstanding × 9% / 12. Month 1: Interest Rs. 3,750, Month 60: Interest Rs. 370. Total interest paid: Rs. 1.49L. EMI: Rs. 10,365 (fixed). Initially, interest component is high, principal component low. Reverse by end of tenure. Factors affecting rate: CIBIL score (750+ gets best rates), car model (old models higher rate), income, employment type. Banks charge 8.5-11%. NBFCs charge 9-13%. Prepayment: No charges on floating rate loans. Reduces tenure or EMI based on choice. Use online EMI calculator for accurate calculations.",
+    "rejected": "Car loan interest is charged on the original loan amount every month. So if you take Rs. 5L loan at 9%, you pay Rs. 3,750 interest every month throughout the loan period. Prepayment doesn't reduce interest much."
+  },
+  {
+    "prompt": "What is Form 26AS and why is it important?",
+    "input": "",
+    "chosen": "Form 26AS is a consolidated annual tax statement showing: TDS deducted by employers/banks/rent, advance tax paid, self-assessment tax, refunds received, high-value transactions (property, shares, mutual funds), foreign payments. Access via: TRACES portal using PAN and net banking. Importance: Verify TDS credits before filing ITR, cross-check with Form 16/16A, identify discrepancies early, ensures all tax payments are credited, required for claiming refunds, tax department matches your ITR with 26AS (mismatches trigger notices). Check quarterly, especially March-April. Report errors to TDS deductor immediately. Part A: TDS, Part B: Tax payments, Part C: Paid refunds, Part D: SFT (high-value). Download annually before ITR filing.",
+    "rejected": "Form 26AS is only for salaried people. Self-employed and business owners don't need it. Form 16 is sufficient for filing ITR, 26AS is optional and not important."
+  },
+  {
+    "prompt": "How to build emergency fund and where to keep it?",
+    "input": "",
+    "chosen": "Emergency fund = 6-12 months of expenses (salary earners: 6 months, self-employed: 12 months). Example: Monthly expenses Rs. 50K → Emergency fund Rs. 3-6L. Where to keep: 1) Savings account (1 month expense) - instant access, 2-4% interest, 2) Liquid mutual funds (3-4 months) - 1 day redemption, 6-7% returns, no exit load, 3) Short-term FD (2-3 months) - 7-day premature withdrawal, 6-7% interest, 4) Sweep-in FD - automatic, FD interest on balance above threshold. Avoid: Equity, long-term debt funds (taxation), illiquid investments. Priority: Build emergency fund before investing. Replenish immediately after use. Keep inflation-adjusted, review annually.",
+    "rejected": "No need for emergency fund. Just invest everything in high-return mutual funds and stocks. You can sell anytime for emergencies. Keeping money in savings account is waste."
+  },
+  {
+    "prompt": "What is Capital Gains tax on property sale?",
+    "input": "",
+    "chosen": "Property sale taxation: Short-term Capital Gain (STCG) - Holding <2 years, gain taxed as per income slab (30%). Long-term Capital Gain (LTCG) - Holding >2 years, gain taxed at 12.5% without indexation (from FY 2023-24, earlier 20% with indexation). Calculation: Sale price - Purchase price - Improvement cost - Transaction cost = Capital gain. Exemptions: Section 54 (buy another house within 2 years), Section 54EC (invest in bonds within 6 months), Section 54F (buy house if property was not house). LTCG up to Rs. 1.25L exempt. TDS: 1% deducted by buyer if property value >Rs. 50L. Show property sale in ITR mandatorily.",
+    "rejected": "Property sale has no capital gains tax if you reinvest money in another property. Just sell and buy another property and you don't need to pay any tax or file any documents."
+  },
+  {
+    "prompt": "How does joint account for home loan help in tax benefits?",
+    "input": "",
+    "chosen": "Joint home loan with co-borrower (spouse/parent) multiplies tax benefits: Each co-borrower claims: Section 24(b) - Rs. 2L interest deduction, Section 80C - Rs. 1.5L principal deduction. Example: You + Spouse as co-borrowers with equal share → Total deduction Rs. 7L (Rs. 3.5L each). Conditions: Both should be co-owners in property, share in property = share in loan benefit, both should contribute to EMI, both should file ITR. Best for: High EMI loans, dual-income families, maximizing tax savings. Also helps: Higher loan eligibility, lower interest rates, shared financial burden. Ensure proper loan agreement and property registration showing ownership percentages clearly.",
+    "rejected": "Joint home loan doesn't provide any additional tax benefits. Only the primary borrower can claim deductions. Adding co-borrower is just for increasing loan amount eligibility."
+  },
+  {
+    "prompt": "What is the difference between will and nomination?",
+    "input": "",
+    "chosen": "Nomination: Names person to receive assets upon death, nominee is trustee/custodian only, not legal heir, assets distributed as per will/succession law. Applicable: Bank accounts, mutual funds, insurance, PF, shares. Will: Legal document distributing all assets to beneficiaries, supersedes nomination, executors ensure execution, registered will is stronger evidence. Difference: Nominee holds assets temporarily, legal heirs get ownership as per will. Best practice: Make both - nomination for smooth asset transfer, will for final ownership distribution. Example: You nominate brother for PF, but will says wife gets everything → Brother receives and must transfer to wife. Without will, succession laws apply. Update nominations after life events (marriage, divorce, childbirth).",
+    "rejected": "Nomination and will are same thing. Nominee becomes the legal owner of all assets automatically. If you have done nomination, no need for will at all."
+  },
+  {
+    "prompt": "How to diversify investment portfolio in India?",
+    "input": "",
+    "chosen": "Diversification framework: 1) Asset class: Equity (50-70%), Debt (20-30%), Gold (5-10%), Real estate (10-15%), 2) Within equity: Large cap (40%), Mid cap (30%), Small cap (15%), International (15%), 3) Within debt: FD/PPF (50%), Debt funds (30%), Bonds (20%), 4) Across sectors: Technology, Banking, FMCG, Pharma, Auto. Don't over-diversify (>20 stocks/funds reduces returns). Age-based: Equity% = 100 - Age. Rebalance annually. Risk pyramid: Base-FD/PPF (safe), Middle-Mutual funds/bonds (moderate), Top-Stocks/alternatives (high risk). Review quarterly, avoid emotion-based changes. Systematic approach: SIP for equity, recurring for debt. Geographic diversification: 10-15% international exposure.",
+    "rejected": "Best diversification is to invest in 50-100 different stocks and 30-40 mutual funds. More diversification always means less risk and higher returns. Put money everywhere to be safe."
+  },
+  {
+    "prompt": "What is tax loss harvesting in mutual funds?",
+    "input": "",
+    "chosen": "Tax loss harvesting: Selling loss-making investments to offset gains and reduce tax liability. Strategy: Identify equity funds/stocks in loss, sell before March 31, book loss, offset against LTCG/STCG, rebuy after 1 day (avoid wash sale). Example: Gain of Rs. 2L in Fund A (taxable), Loss of Rs. 50K in Fund B → Sell Fund B → Net gain Rs. 1.5L → Tax saved on Rs. 50K. STCG loss can offset STCG/LTCG, LTCG loss can offset only LTCG. Losses can be carried forward for 8 years if shown in ITR. Best done in January-February (plan properly). Avoid: Selling fundamentally good funds just for tax saving. Use in falling markets when holding losers.",
+    "rejected": "Tax loss harvesting is illegal in India. You cannot sell funds in loss to save taxes. It's considered tax evasion and income tax department will penalize you."
+  },
+  {
+    "prompt": "How does auto-debit mandate for SIP work?",
+    "input": "",
+    "chosen": "SIP auto-debit setup: Register mandate (one-time) for auto-deduction from bank account. Types: 1) E-mandate (electronic) - instant, up to Rs. 15L, setup online via net banking/debit card, NPCI approved, 2) Physical mandate - signed form, any amount, 7-10 days processing. Post-registration: Auto-debit on SIP date, sufficient balance required (else SIP skips that month, no penalty but investment missed), 2-3 consecutive failures may cancel SIP, modify/cancel anytime online. Benefits: Disciplined investing, no manual intervention, hassle-free. Common issues: Insufficient balance, bank restrictions, expired debit card. Ensure adequate balance 1 day before SIP date. One mandate can handle multiple SIPs from same bank account.",
+    "rejected": "Auto-debit for SIP is not safe. Banks can deduct any amount anytime. You have no control over your account. Always do manual payment for each SIP installment for security."
+  },
+  {
+    "prompt": "What is the benefit of investing in index funds vs actively managed funds?",
+    "input": "",
+    "chosen": "Index Funds: Track index (Nifty50/Sensex), passive management, low expense ratio (0.1-0.5%), returns match index (10-12% historical), no fund manager risk, predictable performance. Actively Managed: Fund manager selects stocks, tries to beat index, high expense ratio (1-2.5%), potential for outperformance (12-15%+ for good funds), manager risk exists, 60-70% fail to beat index consistently. Choose index if: Long-term investor (>15 years), want low cost, don't want to research funds, prefer simplicity. Choose active if: Can identify consistently outperforming funds, accept higher costs, shorter horizon (5-10 years). Hybrid approach: 60% index + 40% active. For Nifty exposure, index funds clearly better (lower cost, same returns).",
+    "rejected": "Index funds are for lazy investors. Actively managed funds always give higher returns. There's no point in investing in index funds as they just give average returns. Active funds are always superior in every way."
+  },
+  {
+    "prompt": "How to plan for retirement at age 60 with corpus calculation?",
+    "input": "",
+    "chosen": "Retirement planning steps: 1) Current age: 35, Retirement age: 60 (25 years), Life expectancy: 85 (25 years post-retirement), 2) Current monthly expenses: Rs. 50K, Future at 60 (6% inflation): Rs. 2.15L/month, Annual: Rs. 25.8L, 3) Corpus needed (assuming 6% return post-retirement): Rs. 4.3 crore, 4) Monthly SIP needed (assuming 12% return): Rs. 42,000/month. Consider: EPF accumulation, inflation, medical costs (increase buffer by 30%), lifestyle changes. Asset allocation: Pre-retirement-70% equity, 30% debt; Post-retirement-30% equity, 70% debt. Income sources: EPF, NPS, rental income, pension. Use retirement calculators, review annually, increase SIP with salary hikes (step-up SIP). Start early-time is biggest advantage.",
+    "rejected": "Just invest Rs. 10,000 per month in mutual funds and you'll have enough for retirement. No need for detailed planning or calculations. Retirement planning is very simple and doesn't require much saving."
+  },
+  {
+    "prompt": "What is credit card churning and is it recommended?",
+    "input": "",
+    "chosen": "Credit card churning: Applying for multiple cards to earn sign-up bonuses, rewards, then canceling and repeating. Pros: High rewards (10K-50K points), welcome benefits, fee waivers first year. Cons: Multiple hard inquiries reduce CIBIL score (10-15 points each), too many cards reduce future credit limit, annual fees if not canceled on time, managing multiple cards is hassle, banks may blacklist for aggressive churning. Recommendation: Not advisable in India. CIBIL score is critical for home/car loans. Better approach: Keep 2-3 good cards long-term (improves credit age), optimize usage for maximum rewards, negotiate fee waiver/upgrades with existing banks. Limited churning acceptable (1 card per year) if you have strong credit profile (>800 score).",
+    "rejected": "Credit card churning is the best strategy to earn unlimited rewards. Apply for 10-15 credit cards every year to get maximum benefits. It doesn't affect your credit score at all and banks encourage this practice."
+  },
+  {
+    "prompt": "How does step-up SIP work and its benefits?",
+    "input": "",
+    "chosen": "Step-up SIP: Systematic plan where SIP amount increases periodically (annually/semi-annually) by fixed amount (Rs. 500, Rs. 1000) or percentage (10%, 15%). Example: Start Rs. 5,000/month with 10% annual step-up → Year 1: Rs. 5K, Year 2: Rs. 5.5K, Year 3: Rs. 6.05K. Benefits: 1) Aligns with salary increments, 2) Accelerated wealth creation (30-40% higher corpus), 3) Beats inflation, 4) Disciplined savings increase. Calculation example: Rs. 10K SIP for 20 years at 12% = Rs. 1 crore vs Rs. 10K step-up SIP (10% annual increase) = Rs. 1.5 crore (50% more). Recommendation: Start with affordable amount, set 10-15% annual step-up, review periodically. Most AMCs allow step-up in SIP registration form or modify later.",
+    "rejected": "Step-up SIP is marketing gimmick by fund houses to collect more money. There's no benefit over regular SIP. It's too complicated and doesn't create significantly more wealth. Stick to simple fixed amount SIP only."
+  },
+  {
+    "prompt": "What is the impact of dividend payout vs growth option in mutual funds?",
+    "input": "",
+    "chosen": "Dividend Option: Fund pays dividend periodically, NAV reduces by dividend amount, dividend is taxable at slab rate (TDS 10% if >Rs. 5K), suitable for regular income needs, lower long-term wealth. Growth Option: No dividend, returns reinvested, NAV grows continuously, tax only on redemption (LTCG 12.5% after 1 year), better compounding, higher long-term wealth. Example: Rs. 1L invested for 10 years at 12%: Growth option = Rs. 3.1L (tax on redemption), Dividend option = Rs. 2.8L (after annual dividend tax). Recommendation: Growth option for wealth creation and tax efficiency. Dividend option only if you need regular cash flow for expenses. Can do SWP (Systematic Withdrawal) from growth option for tax-efficient income.",
+    "rejected": "Dividend option is always better because you get regular income in hand. Growth option is just on paper gains which are not real. Always choose dividend option for all mutual funds."
+  },
+  {
+    "prompt": "How to check if mutual fund is performing well?",
+    "input": "",
+    "chosen": "Evaluate mutual fund performance using: 1) Returns: Compare with benchmark and category average for 1/3/5/10 years (should beat benchmark consistently), 2) Rolling returns: 3-year rolling over last 10 years (consistency indicator), 3) Risk-adjusted returns: Sharpe ratio >1.5 (returns per unit risk), Sortino ratio, 4) Consistency: Top quartile in 3/5 years, 5) Fund manager tenure >3 years, 6) Expense ratio <1.5% for equity, <1% for debt, 7) AUM: Rs. 500 crore - Rs. 30,000 crore (not too small/large), 8) Portfolio quality: Overlap with index, stock concentration. Tools: Valueresearchonline, Morningstar. Review portfolio quarterly, replace underperformers (bottom quartile for 3 years). Don't chase recent outperformers.",
+    "rejected": "Just check last 1 year returns. If fund has given more than 20% return in last year, it's a good fund. That's the only criterion needed. Nothing else matters for mutual fund selection."
+  },
+  {
+    "prompt": "What is the difference between health insurance and critical illness insurance?",
+    "input": "",
+    "chosen": "Health Insurance: Covers hospitalization expenses, cashless/reimbursement for medical bills, pays actual costs up to sum insured, for any illness/accident requiring hospitalization, pre-post hospitalization covered, unlimited claims till sum insured. Critical Illness Insurance: Lump-sum payout on diagnosis of specified illnesses (cancer, heart attack, stroke, kidney failure-24-40 conditions), regardless of actual treatment cost, one-time benefit, use money for treatment/lifestyle/recovery, separate from health insurance. Recommendation: Both needed. Health insurance for medical bills (Rs. 10L+), critical illness as income replacement during recovery (Rs. 25-50L). Critical illness claim doesn't affect health insurance. Ideal coverage: Base health insurance + top-up + critical illness + term insurance.",
+    "rejected": "Health insurance and critical illness insurance are same thing with different names. If you have health insurance, you don't need critical illness cover. It's waste of money to buy both."
+  },
+  {
+    "prompt": "How to optimize tax deductions for self-employed professionals?",
+    "input": "",
+    "chosen": "Tax deductions for self-employed (ITR-3/4): 1) Business expenses: Office rent, electricity, internet, phone, staff salary, travel, depreciation (deduct from business income before tax), 2) Section 80C: Rs. 1.5L (PPF, ELSS, insurance), 3) Section 80D: Rs. 25K/50K (health insurance), 4) Section 80CCD(1B): Rs. 50K (NPS), 5) Home office: 1/3rd of home expenses if office space is 1/3rd, 6) Professional tax: Rs. 2,500, 7) Vehicle: Depreciation + running cost if used for business. Maintain: Bill files, income-expense register, bank statements, GST invoices, Form 26AS. Hire CA for audit if turnover >Rs. 1 crore. Advance tax: Pay quarterly. Total potential savings: Rs. 3-5L deductions = Rs. 90K-1.5L tax saved (30% slab).",
+    "rejected": "Self-employed can claim all personal expenses as business expenses to avoid tax. Just show low income and high expenses to pay zero tax. No one checks bills or proofs for self-employed professionals."
+  },
+  {
+    "prompt": "What is flexi-cap fund and how is it different from multi-cap?",
+    "input": "",
+    "chosen": "Flexi-cap Fund: Invests across large/mid/small cap stocks without fixed allocation mandate, complete flexibility to fund manager based on opportunities, can go 100% large cap or tilt towards mid/small caps. Multi-cap Fund: SEBI mandate to invest minimum 25% each in large, mid, and small cap (75% combined minimum), less flexibility, forced diversification across market caps. Difference: Flexi-cap has freedom, multi-cap has constraints. Post-2020 SEBI rule: Most ex-multi-cap funds converted to flexi-cap. Performance: Similar in long term. Choose flexi-cap if you trust fund manager's market cap allocation decisions. Choose multi-cap for guaranteed exposure to all segments. Both suitable for core portfolio, long-term wealth creation (>7 years).",
+    "rejected": "Flexi-cap and multi-cap funds are exactly same. Just different names for same thing. SEBI made them different for no reason. Choose any one randomly, there's absolutely no difference in returns or allocation."
+  },
+  {
+    "prompt": "How does arbitrage fund work and when to invest?",
+    "input": "",
+    "chosen": "Arbitrage Fund: Exploits price difference between cash and derivatives market (buy in cash, sell in futures, profit from spread), equity-oriented for tax purpose (>65% equity derivative), low risk (near zero volatility), returns 4-7% (slightly better than liquid funds/savings), taxed like equity (12.5% LTCG after 1 year, 20% STCG). Suitable for: Parking surplus for 3-12 months, alternative to liquid funds for tax efficiency, conservative investors, volatile markets (more arbitrage opportunities). Not suitable for: Long-term wealth creation (use equity funds), emergency fund (though better than liquid funds). Best time: High volatility (large spreads), during market swings, quarterly results season. Choose funds with low expense ratio and consistent performance. Size matters (need liquidity for arbitrage execution).",
+    "rejected": "Arbitrage funds are high-risk funds that invest in derivatives. They can give negative returns and you can lose money. Only expert investors should invest in them. Not suitable for common retail investors at all."
+  }
+]
+

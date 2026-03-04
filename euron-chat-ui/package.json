@@ -1,0 +1,12 @@
+{
+  "name": "euron-h100-chat",
+  "version": "1.0.0",
+  "description": "Euron H100 Chat - AI Department Assistant powered by fine-tuned LLMs",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": ["ai", "llm", "chat", "h100", "fine-tuning"],
+  "author": "Euron",
+  "license": "MIT"
+}
